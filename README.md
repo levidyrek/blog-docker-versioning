@@ -2,4 +2,4 @@
 
 This is example code for a blog post about versioning a Docker image with Jenkins.
 
-Read more here: [Link Coming Soon](http://concisecoder.io/)
+Read more here: [Automate Docker Image Versioning with Jenkins](http://concisecoder.io/2019/02/02/automate-docker-image-versioning-with-jenkins/)
